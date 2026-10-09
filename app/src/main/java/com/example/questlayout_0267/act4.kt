@@ -27,7 +27,8 @@ import androidx.compose.ui.unit.sp
 
 @Composable
 fun ActivitasPertama(modifier: Modifier = Modifier) {
-    
+    Column(
+
 }
 
 
